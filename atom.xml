@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>王奕淞个人博客</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-05-26T08:32:21.314Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>王奕淞</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>first Blog</title>
+    <link href="http://yoursite.com/2018/05/26/first-Blog/"/>
+    <id>http://yoursite.com/2018/05/26/first-Blog/</id>
+    <published>2018-05-26T08:32:21.000Z</published>
+    <updated>2018-05-26T08:32:21.314Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
